@@ -2,10 +2,6 @@
 Hello to my little cozy corner of the tech world. This is my home away from home and I hope you find it welcoming here. 
 
 💫 About Me:
-Student at Mendocino College for IT 
-transitioning to SRJC for their Cyber Security AS
-Learning Python
-Always leveling up in Tryandhackme
 
 I am an aspiring Programmer and Security Engineer<br>I'm reaching for my Certificate for IT specialist
 <br>Always learning!<br>- Python<br>- Tryandhackme<br>Any advice regarding the interview job process of the Tech world lmk<br>I am an aspiring Tech personel. All things Tech interest me but especially Cyber Security and Game Development.  Helping people and creating things are my two deepest passions.
